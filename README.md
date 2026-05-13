@@ -602,3 +602,4 @@ Authorization: Bearer <accessToken>
 **Role flexibility** — users can switch between `buyer` and `seller` roles from their profile. Only admins can assign the `admin` role.
 
 **Location-aware listings** — every listing stores GPS coordinates. The frontend renders them on an interactive Leaflet map, making it easy to find nearby sellers.
+
